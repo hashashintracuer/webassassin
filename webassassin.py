@@ -125,6 +125,7 @@ elif select == 5:
     virus1.close()
 elif select == 6:
     print ("BYE" , name1)
+    sys.exit()
  
 
 
